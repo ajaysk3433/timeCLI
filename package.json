@@ -1,0 +1,14 @@
+{
+  "name": "timecli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "timecli.js",
+  "bin": {
+    "timecli": "./timecli.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "dayjs": "^1.11.10"
+  }
+}
